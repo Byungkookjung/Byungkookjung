@@ -1,5 +1,3 @@
-Sup
-
 Computing Science at University of Alberta
 Byungkook Jung
 <!---
